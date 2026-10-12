@@ -1,0 +1,16 @@
+Study_Hours,Attendance,Previous_Marks,Final_Marks,Performance_Category,Model_Predicted_Category,Correct_Prediction
+2,60,45,48,Needs Support,Average,False
+3,70,50,52,Average,Not Tested,
+4,75,55,58,Average,Not Tested,
+5,80,60,65,Average,Not Tested,
+6,85,65,70,Average,Not Tested,
+1,50,35,38,Needs Support,Not Tested,
+7,90,75,78,Good,Not Tested,
+8,95,85,88,Good,Not Tested,
+3,65,48,50,Average,Not Tested,
+5,78,62,64,Average,Average,True
+6,88,70,73,Average,Not Tested,
+2,55,40,42,Needs Support,Average,False
+9,98,90,94,Good,Not Tested,
+4,72,58,60,Average,Not Tested,
+7,92,80,83,Good,Not Tested,
