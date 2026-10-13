@@ -1,0 +1,10 @@
+項目,Details
+Project,Student Performance Prediction System
+Day,22
+Algorithm,Random Forest Classifier
+Input Features,"['Study Hours', 'Attendance', 'Previous Score', 'Assignments Completed']"
+Target,Student Performance
+Classes,"['Low', 'Medium', 'High']"
+Evaluation Metric,"Accuracy, Precision, Recall, F1-score"
+Model File,day22_student_performance_model.pkl
+Dataset,Synthetic sample data for demonstration

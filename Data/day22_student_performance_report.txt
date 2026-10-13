@@ -1,0 +1,34 @@
+
+DAY 22: STUDENT PERFORMANCE PREDICTION SYSTEM
+
+1. Objective
+Build a machine learning model to classify student performance.
+
+2. Algorithm
+Random Forest Classifier.
+
+3. Input Features
+- Study Hours
+- Attendance
+- Previous Score
+- Assignments Completed
+
+4. Target Classes
+- Low
+- Medium
+- High
+
+5. Model Evaluation
+The model was evaluated using accuracy, precision, recall,
+F1-score, and a confusion matrix.
+
+6. Model Saving
+The trained model was saved as:
+day22_student_performance_model.pkl
+
+7. Conclusion
+This project demonstrates how a Random Forest classifier
+can predict performance categories from input features.
+
+Note: The project uses a small synthetic dataset for
+demonstration. Results are not validated for real-world use.
