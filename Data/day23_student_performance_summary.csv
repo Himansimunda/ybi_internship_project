@@ -1,0 +1,8 @@
+Item,Details
+Project Name,Student Performance Prediction System
+Day,23
+Machine Learning Model,Random Forest Classifier
+Input Features,"Study Hours, Attendance, Previous Score, Assignments Completed"
+Predicted Performance,High
+Prediction File,day23_student_performance_predictions.csv
+Report File,day23_student_performance_report.txt
