@@ -1,0 +1,11 @@
+Student_ID,Study_Hours,Attendance,Math_Marks,Science_Marks,Assignments_Completed,Average_Marks,Performance_Level,Study_Recommendation
+ST101,2,65,42,45,5,43.5,Average,Revise subject fundamentals | Improve class attendance | Build a regular study routine | Complete pending assignments
+ST102,5,85,78,82,9,80.0,Good,Maintain current learning habits
+ST103,3,70,55,58,6,56.5,Average,Revise subject fundamentals | Improve class attendance | Complete pending assignments
+ST104,8,95,92,94,10,93.0,Excellent,Maintain current learning habits
+ST105,6,88,81,79,8,80.0,Good,Maintain current learning habits
+ST106,1,50,30,35,3,32.5,Needs Improvement,Revise subject fundamentals | Improve class attendance | Build a regular study routine | Complete pending assignments
+ST107,7,92,88,90,10,89.0,Excellent,Maintain current learning habits
+ST108,4,75,61,64,7,62.5,Good,Maintain current learning habits
+ST109,9,98,96,93,10,94.5,Excellent,Maintain current learning habits
+ST110,5,80,74,76,8,75.0,Good,Maintain current learning habits

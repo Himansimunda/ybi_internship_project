@@ -1,0 +1,11 @@
+Student_ID,Attendance,Average_Marks,Study_Hours,Assignments_Completed,Risk_Score,Risk_Level,Support_Actions
+ST201,45,32,1,2,55.05,Medium Risk,Discuss attendance barriers | Offer subject revision support | Create a manageable study routine | Plan assignment completion
+ST202,90,86,6,10,8.4,Low Risk,Review progress and maintain good habits
+ST203,55,45,2,4,44.0,Medium Risk,Discuss attendance barriers | Offer subject revision support | Create a manageable study routine | Plan assignment completion
+ST204,96,94,8,10,8.5,Low Risk,Review progress and maintain good habits
+ST205,62,52,3,5,37.6,Medium Risk,Discuss attendance barriers | Offer subject revision support | Plan assignment completion
+ST206,85,80,7,9,16.25,Low Risk,Review progress and maintain good habits
+ST207,40,28,1,1,59.7,Medium Risk,Discuss attendance barriers | Offer subject revision support | Create a manageable study routine | Plan assignment completion
+ST208,78,72,5,8,20.5,Low Risk,Review progress and maintain good habits
+ST209,98,97,9,10,9.25,Low Risk,Review progress and maintain good habits
+ST210,68,60,4,6,31.2,Low Risk,Discuss attendance barriers | Plan assignment completion

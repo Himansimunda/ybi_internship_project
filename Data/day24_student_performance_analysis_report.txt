@@ -1,0 +1,33 @@
+STUDENT PERFORMANCE PREDICTION SYSTEM
+DAY 24 - DATA ANALYSIS REPORT
+=============================================
+Report Generated: 2026-10-15 19:49:13
+
+DATASET OVERVIEW
+-------------------------
+Total Students (Rows): 1
+Total Columns: 5
+Total Missing Values: 0
+Total Duplicate Rows: 0
+
+COLUMN DETAILS
+-------------------------
+study_hours: int64, Missing=0
+attendance: int64, Missing=0
+previous_score: int64, Missing=0
+assignments_completed: int64, Missing=0
+predicted_performance: str, Missing=0
+
+NUMERIC SUMMARY
+-------------------------
+       study_hours  attendance  previous_score  assignments_completed
+count          1.0         1.0             1.0                    1.0
+mean           6.0        90.0            78.0                    9.0
+std            NaN         NaN             NaN                    NaN
+min            6.0        90.0            78.0                    9.0
+25%            6.0        90.0            78.0                    9.0
+50%            6.0        90.0            78.0                    9.0
+75%            6.0        90.0            78.0                    9.0
+max            6.0        90.0            78.0                    9.0
+
+END OF REPORT
