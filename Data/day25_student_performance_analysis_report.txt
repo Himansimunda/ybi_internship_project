@@ -1,0 +1,31 @@
+=======================================================
+STUDENT PERFORMANCE PREDICTION SYSTEM
+DAY 25 - ANALYSIS REPORT
+=======================================================
+Report generated: 2026-10-16 19:21:42
+
+DATASET INFORMATION
+------------------------------
+Total rows: 1
+Total columns: 5
+Missing values: 0
+Duplicate rows: 0
+
+PREDICTED PERFORMANCE COUNTS
+------------------------------
+High: 1
+
+OUTPUT FILES
+------------------------------
+day25_prediction_summary.csv
+day25_correlation_matrix.csv
+day25_dataset_quality.csv
+day25_performance_distribution.png
+
+NOTE
+------------------------------
+These results describe model predictions and dataset patterns.
+They do not establish model accuracy because actual labels
+were not available in the analyzed dataset.
+
+End of report.

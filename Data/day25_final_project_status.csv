@@ -1,0 +1,2 @@
+Project Name,Day,Dataset Rows,Dataset Columns,Missing Values,Duplicate Rows,Actual Labels Available,Model Accuracy Validated,Report Generated At
+Student Performance Prediction System,25,1,5,0,0,False,False,2026-10-16 19:23:13
