@@ -1,2 +1,6 @@
-predicted_performance,student_count
-High,1
+,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+study_hours,1.0,,,,6.0,,6.0,6.0,6.0,6.0,6.0
+attendance,1.0,,,,90.0,,90.0,90.0,90.0,90.0,90.0
+previous_score,1.0,,,,78.0,,78.0,78.0,78.0,78.0,78.0
+assignments_completed,1.0,,,,9.0,,9.0,9.0,9.0,9.0,9.0
+predicted_performance,1,1,High,1,,,,,,,

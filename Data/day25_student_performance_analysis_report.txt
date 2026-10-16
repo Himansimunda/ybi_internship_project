@@ -1,31 +1,24 @@
-=======================================================
-STUDENT PERFORMANCE PREDICTION SYSTEM
-DAY 25 - ANALYSIS REPORT
-=======================================================
-Report generated: 2026-10-16 19:21:42
 
-DATASET INFORMATION
-------------------------------
-Total rows: 1
-Total columns: 5
-Missing values: 0
+DAY 25 PROJECT REPORT
+Project Name: Student Performance Prediction System
+
+Dataset rows: 1
+Dataset columns: 5
+
+Available columns:
+['study_hours', 'attendance', 'previous_score', 'assignments_completed', 'predicted_performance']
+
+Missing values:
+study_hours              0
+attendance               0
+previous_score           0
+assignments_completed    0
+predicted_performance    0
+
 Duplicate rows: 0
 
-PREDICTED PERFORMANCE COUNTS
-------------------------------
-High: 1
-
-OUTPUT FILES
-------------------------------
-day25_prediction_summary.csv
-day25_correlation_matrix.csv
-day25_dataset_quality.csv
-day25_performance_distribution.png
-
-NOTE
-------------------------------
-These results describe model predictions and dataset patterns.
-They do not establish model accuracy because actual labels
-were not available in the analyzed dataset.
-
-End of report.
+Note:
+This dataset contains predicted performance labels.
+Actual ground-truth labels are not available in the
+provided columns, so model accuracy and other
+classification evaluation metrics cannot yet be verified.
