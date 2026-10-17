@@ -1,0 +1,52 @@
+
+==================================================
+STUDENT PERFORMANCE PREDICTION SYSTEM
+DAY 26 - ANALYSIS REPORT
+==================================================
+
+Dataset Information
+-------------------
+Total Students (Rows): 1
+Total Columns: 5
+
+Dataset Columns
+---------------
+['study_hours', 'attendance', 'previous_score', 'assignments_completed', 'predicted_performance']
+
+Missing Values
+--------------
+study_hours              0
+attendance               0
+previous_score           0
+assignments_completed    0
+predicted_performance    0
+
+Duplicate Rows
+--------------
+0
+
+Numerical Summary
+-----------------
+       study_hours  attendance  previous_score  assignments_completed
+count          1.0         1.0             1.0                    1.0
+mean           6.0        90.0            78.0                    9.0
+std            NaN         NaN             NaN                    NaN
+min            6.0        90.0            78.0                    9.0
+25%            6.0        90.0            78.0                    9.0
+50%            6.0        90.0            78.0                    9.0
+75%            6.0        90.0            78.0                    9.0
+max            6.0        90.0            78.0                    9.0
+
+Predicted Performance Distribution
+----------------------------------
+predicted_performance
+High    1
+
+Note:
+This report describes the available dataset and its
+predicted performance labels. Actual student outcomes
+are required to validate prediction accuracy.
+
+==================================================
+END OF REPORT
+==================================================

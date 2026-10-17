@@ -1,0 +1,6 @@
+,Missing_Values,Data_Type,Unique_Values
+study_hours,0,int64,1
+attendance,0,int64,1
+previous_score,0,int64,1
+assignments_completed,0,int64,1
+predicted_performance,0,str,1
