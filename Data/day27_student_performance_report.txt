@@ -1,0 +1,24 @@
+STUDENT PERFORMANCE PREDICTION SYSTEM
+DAY 27: STUDENT PERFORMANCE ANALYSIS REPORT
+==================================================
+
+Total Records: 1
+Total Columns: 5
+Duplicate Rows: 0
+
+Missing Values by Column:
+study_hours: 0
+attendance: 0
+previous_score: 0
+assignments_completed: 0
+predicted_performance: 0
+
+Numerical Column Averages:
+study_hours: 6.00
+attendance: 90.00
+previous_score: 78.00
+assignments_completed: 9.00
+
+Analysis Summary:
+Descriptive statistics and visualizations were generated to explore the student dataset.
+These results describe the available data and do not independently validate prediction accuracy.

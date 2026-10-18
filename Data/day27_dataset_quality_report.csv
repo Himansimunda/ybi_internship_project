@@ -1,0 +1,6 @@
+Column,Data_Type,Missing_Values,Missing_Percentage,Unique_Values
+study_hours,int64,0,0.0,1
+attendance,int64,0,0.0,1
+previous_score,int64,0,0.0,1
+assignments_completed,int64,0,0.0,1
+predicted_performance,str,0,0.0,1
