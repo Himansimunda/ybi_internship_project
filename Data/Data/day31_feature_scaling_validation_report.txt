@@ -1,0 +1,35 @@
+STUDENT PERFORMANCE PREDICTION SYSTEM
+DAY 31 - FEATURE SCALING VALIDATION REPORT
+=======================================================
+
+Dataset rows: 1
+Dataset features: 4
+Duplicate rows: 0
+Missing values: 0
+
+FEATURE SCALING STATISTICS
+-----------------------------------
+       study_hours  attendance  previous_score  assignments_completed
+count          1.0         1.0             1.0                    1.0
+mean           0.0         0.0             0.0                    0.0
+std            NaN         NaN             NaN                    NaN
+min            0.0         0.0             0.0                    0.0
+25%            0.0         0.0             0.0                    0.0
+50%            0.0         0.0             0.0                    0.0
+75%            0.0         0.0             0.0                    0.0
+max            0.0         0.0             0.0                    0.0
+
+CORRELATION MATRIX
+-----------------------------------
+                       study_hours  attendance  previous_score  assignments_completed
+study_hours                    NaN         NaN             NaN                    NaN
+attendance                     NaN         NaN             NaN                    NaN
+previous_score                 NaN         NaN             NaN                    NaN
+assignments_completed          NaN         NaN             NaN                    NaN
+
+HIGH CORRELATION PAIRS (|r| >= 0.80)
+-----------------------------------
+No feature pairs exceeded the threshold.
+
+Note: This report validates preprocessing statistics.
+It does not measure prediction accuracy.
