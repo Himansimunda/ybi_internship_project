@@ -1,0 +1,5 @@
+Feature,Data Type,Total Rows,Missing Values,Unique Values,Minimum,Maximum,Mean
+study_hours,int64,1,0,1,6,6,6.0
+attendance,int64,1,0,1,90,90,90.0
+previous_score,int64,1,0,1,78,78,78.0
+assignments_completed,int64,1,0,1,9,9,9.0
